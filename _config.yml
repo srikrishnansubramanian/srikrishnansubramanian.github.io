@@ -14,6 +14,7 @@ url: "http://srikrishnansubramanian.github.io" # the base hostname & protocol fo
 twitter_username: srikrishnan_23
 github_username:  srikrishnansubramanian
 paginate: 5
+youtube_username: https://www.youtube.com/channel/UCq-H8hQPEOpKwPsk61YWteQ
 
 gems: [jekyll-paginate, kramdown]
 # Build settings
